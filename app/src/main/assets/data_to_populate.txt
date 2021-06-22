@@ -1,0 +1,106 @@
+France:Paris:48.8566:2.3522:Europe
+England:London:51.5073:-0.1278:Europe
+USA:New York:40.7128:-74.0059:America
+Italy:Rome:41.9028:12.4964:Europe
+Japan:Tokyo:35.6895:139.6917:Asia
+China:Beijing:39.9042:116.4074:Asia
+Russia:Moscow:55.7559:37.6173:Asia
+Brazil:Brasilia:-15.7942:-47.8822:America
+India:New Delhi:28.6139:77.2090:Asia
+South Africa:Pretoria:-25.7479:28.2293:Africa
+Republic of Congo:Brazzaville:-4.2634:15.2428:Africa
+Canada :Ottawa:45.4215:-75.6972:America
+Argentina:Buenos Aires:-34.6036:-58.3816:America
+Spain:Madrid:40.4168:-3.7038:Europe
+Portugal:Lisbon:38.7222:-9.1393:Europe
+Greece:Athens:37.9838:23.7275:Europe
+Poland:Warsaw:52.2297:21.0122:Europe
+Norway:Oslo:59.9139:10.7522:Europe
+Iceland:Reykjavik:64.1265:-21.8174:Europe
+Belgium:Brussels:50.38503:4.3517:Europe
+Czech Republic:Prague:50.0755:14.4778:Europe
+Algeria:Algiers:36.6997:3.0576:Africa
+Nigeria:Abuja:9.0438:7.4919:Africa
+Ethiopia:Addis-Ababa:6.6:3.0:Africa
+Netherland:Amsterdam:52.3702:4.8952:Europe
+Turkey:Ankara:39.9333:32.8597:Asia
+Irak:Baghdad:33.3128:44.3615:Asia
+Mali:Bamako:12.6171:-7.9811:Africa
+Thailand:Bangkok:13.7563:100.5018:Asia
+Germany:Berlin:52.52:13.405:Europe
+Switzerland:Berne:46.948:7.4474:Europe
+Romania:Bucharest:44.4268:26.1025:Europe
+Hungary:Budapest:47.4979:19.0402:Europe
+Egypt:Cairo:30.0215:31.2772:Africa
+Australia:Canberra:-35.3075:149.1244:Oceania
+South Africa:Cape Town:-33.9249:18.4241:Africa
+Venezuela:Caracas:10.4806:-66.9036:America
+Guinea:Conakry:9.6412:-13.5784:Africa
+Denmark:Copenhagen:55.6761:12.5683:Europe
+Syria:Damascus:33.5138:36.2765:Asia
+Bangladesh:Dhaka:23.8103:90.4125:Asia
+Djibouti:Djibouti:11.5774:43.1445:Africa
+Qatar:Doha:25.2832:51.5296:Asia
+Ireland:Dublin:53.3498:-6.2603:Europe
+Guatemala:Guatemala:14.6145:-90.515:America
+Vietnam:Hanoi:21.0278:105.8342:Asia
+Cuba:Havana:23.1136:-82.3666:America
+Finland:Helsinki:60.1699:24.9384:Europe
+Pakistan:Islamabad:33.7294:73.0931:Asia
+Indonesia:Jakarta:-6.1745:106.8227:Asia
+Israel:Jerusalem:31.7683:35.2137:Asia
+Afganistan :Kabul:34.5554:69.2075:Asia
+Uganda:Kampala:0.3476:32.5825:Africa
+Nepal:Katmandou:27.7172:85.324:Asia
+Sudan:Khartoum:15.5007:32.5599:Africa
+Ukraine:Kiev:50.4501:30.5234:Europe
+Rwanda:Kigali:-1.9706:30.1044:Africa
+Jamaica:Kingston:18.0179:-76.81:America
+Democratic Republic of Congo:Kinshasa:-4.3806:15.3226:Africa
+Malaysia:Kuala Lumpur:3.1569:101.7123:Asia
+Gabon:Libreville:0.4162:9.4673:Africa
+Slovenia:Ljubljana:46.0569:14.5058:Europe
+Togo:Lomé:6.1725:1.2314:Africa
+Angola:Luanda:-8.84:13.2894:Africa
+Philippines:Manila:14.5995:120.9842:Asia
+Mexico:Mexico City:19.4326:-99.1332:America
+Belarus:Minsk:53.9045:27.5615:Europe
+Kenya:Nairobi:-1.2921:36.8219:Africa
+Chad:N'Djamena:12.1348:15.0557:Africa
+Niger:Niamey:13.5116:2.1254:Africa
+Mauritania:Nouakchott:18.0735:-15.9582:Africa
+Burkina Faso:Ouagadougou:12.3714:-1.5197:Africa
+Mongolia:Oulaanbaatar:47.9113:106.9065:Asia
+Bolivia:La Paz:-16.5069:-68.134:America
+Cambodia:Phnom Penh:11.5449:104.8922:Asia
+Haiti:Port au Prince:18.5704:-72.3173:America
+North Korea:Pyongyang:38.9882:125.7658:Asia
+Ecuator:Quito:-0.1807:-78.4678:America
+Morocco:Rabat:33.9716:-6.8498:Africa
+Saudi Arabia:Riyad:24.7136:46.6753:Asia
+Latvia:Riga:56.9496:24.1052:Europe
+San Salvador:San Salvador:13.6929:-89.2182:America
+Yemen:Sanaa:15.3694:44.191:Asia
+Chile:Santiago:-33.4378:-70.6504:America
+South Korea:Séoul:37.5665:126.978:Asia
+Peru:Lima:-12.0464:-77.0428:America
+Bulgaria:Sofia:42.6977:23.3219:Europe
+Sweden:Stockholm:59.3293:18.0686:Europe
+Uzbekistan:Tashkent:41.2995:69.2401:Asia
+Estonia:Tallinn:59.437:24.7536:Europe
+Georgia:Tbilissi:41.7151:44.8271:Asia
+Iran:Tehran:35.6892:51.389:Asia
+Albania:Tirana:41.3275:19.8187:Europe
+Libya:Tripoli:32.8872:13.1913:Africa
+Tunisia:Tunis:36.8065:10.1815:Africa
+Austria:Vienna:48.2082:16.3738:Europe
+Laos:Vientiane:17.9652:102.6212:Asia
+Lithuania:Vilnius:54.6872:25.2797:Europe
+USA:Washington DC:38.9072:-77.0369:America
+New Zealand:Wellington:-41.2864:174.7762:Oceania
+Côte d'ivoire:Yamoussoukro:6.8081:-5.2718:Africa
+Cameroon:Yaoundé:3.8547:11.5155:Africa
+Croatia:Zagred:45.815:15.9819:Europe
+Namibia:Windhoeck:-22.5609:17.0658:Africa
+Lichtenstein:Vaduz:47.141:9.5209:Europe
+Bosnia :Sarajevo:43.8554:18.4082:Europe
